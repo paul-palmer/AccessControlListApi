@@ -1,0 +1,9 @@
+name:         'AccessControlLists'
+main:         'dev.metanoia.acllib.AccessControlLists'
+version:      '1.0.0'
+api-version:  '1.16'
+author:       'BornToCode'
+load:         'POSTWORLD'
+description: |
+  A simple API implementing rich access control lists for controlling plugin features as an enhancement
+  over simple permission checks.
